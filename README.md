@@ -1,11 +1,26 @@
-Site Institucional – Hoops Pro - Produtos e Serviços Relacionados Ao Mundo Hooper
+# Site Institucional – Hoops Pro
 
-O projeto consiste no desenvolvimento de um site institucional criando uma empresa ficticia, uma empresa especializada em divulgar produtos e facilitar processos de renovação de quadras, camisas personalizadas, uniformes de times de bairros personalizados. O objetivo do site é apresentar a marca, destacar seus produtos e serviços,
-reforçar credibilidade no mercado e facilitar o contato entre clientes e a empresa, utilizando HTML, CSS e Bootstrap para criar uma página moderna, responsiva e alinhada à identidade visual da empresa.
+## Sobre o Projeto
 
-Matheus Gabriel de Medeiros Silva
+O projeto consiste no desenvolvimento de um site institucional para a **Hoops Pro**, uma loja especializada em artigos de basquete, tênis de performance, acessórios e serviços de personalização para times.
 
-1° Periodo em Analise e desenvolvimento de sistemas - FICR.
+O objetivo do site é apresentar a marca, destacar seus produtos (como lançamentos de tênis e bolas oficiais) e serviços (instalação de tabelas e uniformes), reforçar a identidade visual ligada ao esporte e facilitar o contato entre clientes e a empresa.
 
-https://matheusmedeirosgs.github.io/hoops-pro/
+O projeto foi construído utilizando **HTML**, **CSS** e o framework **Bootstrap** para criar uma página moderna, responsiva e alinhada às necessidades do público-alvo.
 
+## Tecnologias Utilizadas
+
+* **HTML5:** Estruturação semântica do conteúdo.
+* **CSS3:** Estilização personalizada e identidade visual.
+* **Bootstrap 5:** Sistema de grid e componentes para responsividade.
+
+## Acesso ao Projeto
+
+Você pode acessar a versão online do projeto através do link abaixo:
+
+🔗 **Link:** https://matheusmedeirosgs.github.io/hoops-pro/
+
+## Autor
+
+**Matheus Gabriel de Medeiros Silva**
+1° Período em Análise e Desenvolvimento de Sistemas.
