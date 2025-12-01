@@ -5,7 +5,7 @@ reforçar credibilidade no mercado e facilitar o contato entre clientes e a empr
 
 Matheus Gabriel de Medeiros Silva
 
-1° Periodo em Analise e desenvolvimento de sistemas.
+1° Periodo em Analise e desenvolvimento de sistemas - FICR.
 
 https://matheusmedeirosgs.github.io/hoops-pro/
 
