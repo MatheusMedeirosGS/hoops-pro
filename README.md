@@ -23,4 +23,4 @@ Você pode acessar a versão online do projeto através do link abaixo:
 ## Autor
 
 **Matheus Gabriel de Medeiros Silva**
-1° Período em Análise e Desenvolvimento de Sistemas - FICR.
+1° Período em Análise e Desenvolvimento de Sistemas.

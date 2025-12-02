@@ -401,3 +401,27 @@ h1, h2, h3 {
   .menu-principal ul { flex-direction: column; gap: 15px; }
   .menu-principal a { display: block; text-align: center; padding: 10px; }
 }
+
+
+.navbar-nav {
+    flex-direction: row;
+    gap: 30px;
+}
+
+@media (max-width: 991px) {
+    .navbar-collapse {
+        background: #fff;
+        padding: 20px;
+        border-radius: 12px;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        position: absolute;
+        top: 100%;
+        right: 0;
+        width: 250px;
+        z-index: 1000;
+    }
+    .navbar-nav {
+        flex-direction: column;
+        gap: 15px;
+    }
+}
